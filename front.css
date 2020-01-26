@@ -1,0 +1,44 @@
+h1,h2,h3 {
+	color: white;
+}
+
+.banner{
+	text-align: center;
+	background-image: url("images/cheval1.jpg");
+	padding: 280px 200px;
+}
+
+.titre{
+	text-align: center;
+	background: grey;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
+.explication {
+
+	text-align: center;
+	background: black;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+
+.typeformGilou {
+
+	text-align: center;
+	background: black;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+
+.typeform-widget {
+	align-content: center;
+}
+
+
+body{
+	font-family: arial, serif;
+}
